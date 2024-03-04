@@ -1,6 +1,6 @@
 <div style="display: flex; gap: 8px; flex-wrap: wrap; flex-direction: row;">
 
-<img src="https://api.visitorbadge.io/api/visitors?path=ckaznable&countColor=%23ff8a65" height="30">
+<img src="https://api.visitorbadge.io/api/visitors?path=ActualGeniusIntellectual&countColor=%23ff8a65" height="30">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30">
@@ -14,7 +14,7 @@
 # I am Actual Genius Intellectual
 ## You will remember my name.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ckaznable&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ActualGeniusIntellectual&theme=dark" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ActualGeniusIntellectual&theme=dark)
 
