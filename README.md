@@ -11,20 +11,13 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30">
 </div>
 
-# Hello I'm Ckaznable 👋
+# I am Actual Genius Intellectual
+## You will remember my name.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ckaznable&theme=dark" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckaznable&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ActualGeniusIntellectual&theme=dark)
 
 # Develop
 
-[![](https://skillicons.dev/icons?i=rust,js,ts,nodejs,deno,vue,react,vite,rollup,go,php,md,python)](https://skillicons.dev)
-
-# Roadmap
-
-[![](https://skillicons.dev/icons?i=bevy,wasm,zig,c,cpp,haskell,ocaml,kotlin,tauri)](https://skillicons.dev)
-
-# Donation
-
-<a href="https://liberapay.com/ckaznable/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+[![](https://skillicons.dev/icons?i=rust,js,ts,nodejs,deno,vue,react,vite,rollup,go,php,md,python,zig,tauri,haskell)](https://skillicons.dev)
